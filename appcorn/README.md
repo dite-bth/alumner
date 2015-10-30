@@ -1,6 +1,6 @@
 # Appcorn
 Ett antal studenter som studerade vid Medieteknik i Karlshamn, BTH, under åren 2005-2008 startade ett företag som kom att heta Appcorn.
-Studenterna var Martin Alleus, Magnus Renmark, Christoffer Linder och Niklas Lihde.
+Studenterna var Martin Alleus, Magnus Renmark, Chralle Linder och Niklas Lihde.
 Det hela började som ett examensarbete vilket resulterade i en iPhone-app för Blocket.
 Bransch: apputveckling.
 
