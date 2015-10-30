@@ -7,7 +7,7 @@ Repo med samlat material vad studenter har gjort i olika projekt och samarbeten.
 Företag startat av studenter på Medieteknik i Karlshamn.
 App-utveckling för bland annat Spotify, HM etc.
 
-Vinnare av Gasellpriset 2015.
+Vinnare av <a href="http://www.di.se/gasell/" target="_blank">Gasellpriset</a> 2015.
 Intervjuade i Dagens Industri.
 
 Se mer här: https://github.com/dite-bth/alumner/tree/master/appcorn
