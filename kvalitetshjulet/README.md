@@ -11,7 +11,7 @@ Medverkande studenter var:
 - David Andreasson
 - Niklas Johansson
 - Andreas Boqvist
-- Johan Nygren <a href="https://github.com/Shin1ng" target="_blank">Shin1ng</a>
+- Johan Nygren - <a href="https://github.com/Shin1ng" target="_blank">Shin1ng</a>
 - Arnar Jóhannsson
 - Paulina Odeholm
 - Khyber Rostami
