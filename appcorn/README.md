@@ -1,3 +1,8 @@
+<a href="https://www.appcorn.se/" target="_blank"><img src="https://www.appcorn.se/img/logo/appcorn_logotype_gradient_rgb@2x.png"></a>
+
+
+
+
 # Appcorn
 Ett antal studenter som studerade vid Medieteknik i Karlshamn, BTH, under åren 2005-2008 startade ett företag som kom att heta Appcorn.
 Grunden till det hela startade i ett examensarbete i vilket en iPhone-app till Blocket gjordes. Studenterna i examensarbetet var Martin Alleus, Magnus Renholm, Chralle Linder och Niklas Lihde.
