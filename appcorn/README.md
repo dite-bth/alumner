@@ -1,5 +1,6 @@
 # Appcorn
-Repo med samlat material vad studenter har gjort i olika projekt och samarabeten.
+Företag skapat av studenter på Medieteknik (BTH, Karlshamn).
+Bransch: apputveckling.
 
 
 ## Appcorn har fått Gasellfart på tillväxten
