@@ -1,5 +1,4 @@
-# Alumner
-
+# Appcorn
 Repo med samlat material vad studenter har gjort i olika projekt och samarabeten.
 
 
