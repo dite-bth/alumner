@@ -5,15 +5,15 @@ Grunden till det hela startade i ett examensarbete i vilket en iPhone-app till B
 
 
 
-Ur en artikel i Dagens Industri 2015-10-23:
+```Utdrag ur en artikel i Dagens Industri 2015-10-23, med anledning att Appcorn vunnit Gasellpriset:```
 
-```
+
 ## Appcorn har fått Gasellfart på tillväxten
 *Med musiktjänsten Spotify och matvarukedjan Coop som kunder har apputvecklaren Appcorn i Karlshamn fått fart på tillväxten.
 Men företagsresan började med nudlar till middag och lån av föräldrarna.*
 
 *Bolaget, som grundades 2009 i Karlshamn, har sitt ursprung i ett examensarbete på Blekinge tekniska högskola där Martin Alléus och Magnus Renholm läste medieteknik med inriktning interaktiva system.*
-```
+
 
 
 Läs artikeln på Dagens Industri:
