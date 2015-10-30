@@ -7,7 +7,9 @@ Bransch: apputveckling.
 
 ## Appcorn har fått Gasellfart på tillväxten
 *Med musiktjänsten Spotify och matvarukedjan Coop som kunder har apputvecklaren Appcorn i Karlshamn fått fart på tillväxten.
-Men företagsresan började med nudlar till middag och lån av föräldrarna.*
+Men företagsresan började med nudlar till middag och lån av föräldrarna.
+
+Bolaget, som grundades 2009 i Karlshamn, har sitt ursprung i ett examensarbete på Blekinge tekniska högskola där Martin Alléus och Magnus Renholm läste medieteknik med inriktning interaktiva system.*
 
 Läs artikeln på Dagens Industri:
 http://www.di.se/gasell/artiklar/2015/10/23/appcorn-har-fatt-gasellfart-pa-tillvaxten/
