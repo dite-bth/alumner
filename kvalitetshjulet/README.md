@@ -31,6 +31,6 @@ alt="Presentation Kvalitetshjulet" width="340" height="200" border="10" /></a>
 ---
 
 
-<img src="https://raw.githubusercontent.com/dite-bth/alumner/master/kvalitetshjulet/members.png" alt="Medlemmar Kvalitetshjulet" width="100%" height="360" border="10" />
+<img src="https://raw.githubusercontent.com/dite-bth/alumner/master/kvalitetshjulet/members.png" alt="Medlemmar Kvalitetshjulet" width="100%" border="10" />
 
 Fr v: Thomas Jarbo (Olofströms kommun), Andreas, Robin, Alfred, Adam, Paulina, David, Niklas, Johan, Khyber, Albin Eneroth (lärare), Mattias Schertell (kurs-, och programansvarig).
