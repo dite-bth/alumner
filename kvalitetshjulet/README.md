@@ -13,7 +13,7 @@ Medverkande studenter var:
 - Andreas Boqvist
 - Johan Nygren
 - Arnar Jóhannsson
--Paulina Odeholm
+- Paulina Odeholm
 - Khyber Rostami
 - Robin Friholm
 - Adam Carlfjord
