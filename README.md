@@ -14,7 +14,7 @@ Se mer här: https://github.com/dite-bth/alumner/tree/master/appcorn
 
 
 ## Kvalitetshjulet
-Ett samarbetsprojekt mellan student på programmet Webbutveckling och Olofströms kommun.
-Utveckling av ett webbaserat planeringsverktyg.
+Ett samarbetsprojekt mellan studenter på programmet Webbutveckling och Olofströms kommun.
+Studenterna utvecklade ett webbaserat planeringsverktyg.
 
 Se mer här: https://github.com/dite-bth/alumner/tree/master/kvalitetshjulet
