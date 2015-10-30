@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/dite-bth/alumner/master/kvalitetshjulet/kvalitetshjul.png"
-alt="Kvalitetshjulet" width="440" height="300" border="10" />
+alt="Kvalitetshjulet" width="640" height="340" border="10" />
 
 # Kvalitetshjulet
 Ett antal studenter som studerade vid BTH, Webbutveckling i Karlshamn, med start 2012, gjorde under sitt andra år på utbildningen ett samarbete med Olofströms kommun.
@@ -28,7 +28,9 @@ alt="Presentation Kvalitetshjulet" width="340" height="200" border="10" /></a>
 
 
 
+---
 
-<img src="https://raw.githubusercontent.com/dite-bth/alumner/master/kvalitetshjulet/members.png" alt="Medlemmar Kvalitetshjulet" width="440" height="300" border="10" />
+
+<img src="https://raw.githubusercontent.com/dite-bth/alumner/master/kvalitetshjulet/members.png" alt="Medlemmar Kvalitetshjulet" width="540" height="360" border="10" />
 
 Fr v: Thomas Jarbo (Olofströms kommun), Andreas, Robin, Alfred, Adam, Paulina, David, Niklas, Johan, Khyber, Albin Eneroth (lärare), Mattias Schertell (kurs-, och programansvarig).
