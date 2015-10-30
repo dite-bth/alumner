@@ -1,9 +1,15 @@
 # Appcorn
-Företag skapat av studenter på Medieteknik (BTH, Karlshamn).
+Ett antal studenter som studerade vid Medieteknik i Karlshamn, BTH, under åren 2005-2008 startade ett företag som kom att heta Appcorn.
+Studenterna var Martin Alleus, Magnus Renmark, Christoffer Linder och Niklas Lihde.
+Det hela började som ett examensarbete vilket resulterade i en iPhone-app för Blocket.
 Bransch: apputveckling.
 
 
 ## Appcorn har fått Gasellfart på tillväxten
+*Med musiktjänsten Spotify och matvarukedjan Coop som kunder har apputvecklaren Appcorn i Karlshamn fått fart på tillväxten.
+Men företagsresan började med nudlar till middag och lån av föräldrarna.*
+
+Läs artikeln på Dagens Industri:
 http://www.di.se/gasell/artiklar/2015/10/23/appcorn-har-fatt-gasellfart-pa-tillvaxten/
 
 
