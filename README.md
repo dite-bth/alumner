@@ -3,7 +3,7 @@
 Repo med samlat material vad studenter har gjort i olika projekt och samarbeten.
 
 
-## Appcorn <img src="https://www.appcorn.se/img/logo/appcorn_logotype_gradient_rgb@2x.png">
+## Appcorn
 Företag startat av studenter på Medieteknik i Karlshamn.
 App-utveckling för bland annat Spotify, HM etc.
 
