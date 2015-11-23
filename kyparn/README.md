@@ -3,7 +3,7 @@
     
 <img src="http://assets1.kyparn.se/assets/common_domain/kyparn-6960e8d598a227809f462c2c953a419b.png" />  
 
-Företag startat av två studenter på Webbutveckling; Mattias Svedhem och Tim Brunsmo.  
+Företag startat av två studenter på Webbutveckling; <a href="https://www.linkedin.com/in/mattias-svedhem-31a36a35" target="_blank">Mattias Svedhem</a> och <a href="https://www.linkedin.com/in/tim-brunsmo-68aa075a" target="_blank">Tim Brunsmo</a>.  
 Produkten, som företaget står bakom, låter restauranger lägga upp sitt utbud (lunch, a la carte etc) 
 som användare kan ta del av via en app eller via browsern.  
 Appen finns för både iPhone och Android.  
